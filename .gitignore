@@ -1,0 +1,4 @@
+.vagrant
+.VagrantFile.swp
+ubik.bak
+*.log
